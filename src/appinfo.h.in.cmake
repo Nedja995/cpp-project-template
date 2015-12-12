@@ -2,7 +2,6 @@
 #ifndef HEADER_SRC_APPINFO_H_INCLUDED
 #define HEADER_SRC_APPINFO_H_INCLUDED
 
-#include <boost/preprocessor/stringize.hpp>
 
 /*
  * AUTO-GENERATION WARNING:
