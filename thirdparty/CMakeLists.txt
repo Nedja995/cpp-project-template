@@ -11,10 +11,10 @@
 #
 get_filename_component(THIRD_FIRST_REL ${THIRD_FIRST_SRC} REALPATH)
 
-find_package(Threads REQUIRED)
+#find_package(Threads REQUIRED)
 
 # Enable ExternalProject CMake module
-include(ExternalProject)
+#include(ExternalProject)
 
 # Download and install GoogleTest
 # ExternalProject_Add(
